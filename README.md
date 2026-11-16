@@ -1,3 +1,9 @@
+[![make.fun - tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/sariman-ardi/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/sariman-ardi/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+
+Entry untuk bounty [tiny-chess-01 di make.fun](https://make.fun/bounty/tiny-chess-01) — "Build the strongest chess engine in 4 KB of Python", hadiah total $500.
+
 # TinyChess v2 — engine catur 4 KB untuk bounty make.fun `tiny-chess-01`
 
 Engine catur original (bukan sunfish/GPL, bukan salinan engine lain), ditulis
@@ -133,4 +139,4 @@ lolos vs house engine asli.
   0 remis repetisi, Elo gabungan perkiraan ~1.691 (vs proxy buatan sendiri,
   ketidakpastian ~±100). Layak lanjut ke repo + submit; belum dites vs
   nodes-100k/250k/500k.
-- Belum submit ke make.fun, belum ada repo GitHub untuk engine ini.
+- Repo GitHub: https://github.com/sariman-ardi/tiny-chess-01 — entry make.fun sedang disubmit (submit pertama ditolak situs karena README belum menampilkan badge make.fun dan About repo belum diisi; diperbaiki lalu submit ulang).
